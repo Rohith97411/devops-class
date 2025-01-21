@@ -1,4 +1,6 @@
-for i in range(0,5):
-    print("hello")
-    if True:
-        exit
+name="Rohith"
+for i in name:
+    if i==Rohith:
+        print("name matched")
+    else:
+        print("name not matched")
